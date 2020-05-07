@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Plik A zmieniony.
-=======
-Plik A zmin.
->>>>>>> testingbranch
